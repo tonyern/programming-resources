@@ -1,4 +1,4 @@
-# About
+# Resources and Notes
 Notes and links to good resources for developers.
 
 ## Deploying Apps

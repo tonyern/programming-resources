@@ -1,6 +1,11 @@
 # Resources and Notes
 Notes and links to good resources for developers.
 
+## Bugs
+
+### Bugs I've Encountered and Steps I Take to Document Bugs
+https://github.com/tonyern/program-bugs-documentation
+
 ## Deploying Apps
 https://vercel.com/
 

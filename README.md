@@ -1,6 +1,9 @@
 # About
 Notes and links to good resources for developers.
 
+## Deploying Apps
+https://vercel.com/
+
 ## Searching for APIs
 https://www.programmableweb.com/
 
